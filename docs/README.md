@@ -33,10 +33,3 @@
     - Número de jugadores conectados.
 
 - ☕ Instalación automática de Java.
-
----
-
-<br>
-<br>
-
-[<p align="center">]() *Readme réalisé par [@Fefe_du_973](https://github.com/Fefedu973)*  </p>
