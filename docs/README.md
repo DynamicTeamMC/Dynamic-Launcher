@@ -30,7 +30,7 @@
 
     - Anuncia si está encendido o apagado.
     
-    - Número de jugadores conecrados.
+    - Número de jugadores conectados.
 
 - ☕ Instalación automática de Java.
 
