@@ -8,79 +8,32 @@
 
 ---
 
-### **<ins><p align="center">Fonctionnalitées du launcher :</p>**
+### **<ins><p align="center">Funciones del lanzador:</p>**
 
-- ✅ Mise à jour automatiques via github.
+- ✅ Actualizaciones automáticas.
 
-- 🔴 Option pour mettre le launcher en maintenance.
+- 🔴 Launcher desactivado en mantenimiento.
 
-- 🔒 Authentification Microsoft.
+- 🔒 Inicio de sesión a través de Microsoft.
 
-- 🏴‍☠️ Authentification Crack.
+- 🏴‍☠️ Uso solo mediante Dynamic Launcher.
 
-- ⛏️ Supporte toutes versions de Minecraft 1.0 > 1.19.x (Forge, Fabric etc).
+- ⛏️ Soporte a todas las versiones de Minecraft.
 
-- 📦 Supporte les version moddées Forge et Fabric (Pas les MCP)
+- 📦 Soporta modloaders como Fabric y Forge.
  
-- 📰 Fil d'actualité intégré nativement au launcher.
+- 📰 Apartado de noticias y actualizaciones in-app.
 
-- 🚹 Gestionnaire de skins.
+- ⚙️ Gestion de parámetros.
 
-- ⚙️ Gestion intuitive des paramètres, y compris un panneau de configuration Java.
+- 🟢 Estado del servidor.
 
-- 🟢 Statut serveur complet.
-
-    - Opérationnel ou hors ligne.
+    - Anuncia si está encendido o apagado.
     
-    - Nombres de joueurs connectés.
+    - Número de jugadores conecrados.
 
-- ☕ Installation de Java automatique.
+- ☕ Instalación automática de Java.
 
-    - Si vous avez installé une version incompatible de Java, nous installerons la bonne pour vous.
-    
-    - Vous n'avez pas besoin d'avoir Java installé pour exécuter le launcher.
-
-Ce n'est pas une liste exhaustive. Installez le launcher pour voir tout ce qu'il peut faire !
-
-Vous aimez le projet ? Laissez une étoile ⭐ sur le repo !
-
----
-
-### **<ins><p align="center">Vous avez besoin d'aide pour faire votre propre launcher ? :</p>**
-
-- Voici le [Wiki](./wiki.md) spécialement rédigé pour vous guider pas à pas dans la création de votre launcher.
-
----
-### **<ins><p align="center">Téléchargement :</p>**
-
-Vous pouvez télécharger le launcher à partir des [Releases GitHub](https://github.com/luuxis/Selvania-Launcher/releases).
-
-Plateformes supportées :
-
-- Windows 
-- Linux
-- MacOS
-
-Si vous téléchargez à partir des Releases, sélectionnez le programme d'installation de votre système.
-
- Plateforme | Fichier |
-| -------- | ---- |
-| Windows x64 | `Selvania-Launcher-win-x64.exe ` |
-| macOS x64 | `Selvania-Launcher-mac-x64.dmg` |
-| macOS arm64 | `Selvania-Launcher-mac-arm64.dmg` |
-| Linux x64 | `Selvania-Launcher-linux-x86_64.AppImage` |
-
----
-
-<br>
-
-Si vous aimez ce projet et que vous voulez aider à le développer, vous pouvez nous faire un don sur [Paypal](https://www.paypal.me/luuxiss).
-
-Si vous avez des questions, un problème ou des suggestions n'hésitez pas à rejoindre notre discord :
-
-<br>
-
-[<p align="center"><img src="https://discordapp.com/api/guilds/819729377650278420/embed.png?style=banner2" alt="discord">](https://discord.gg/e9q7Yr2cuQ) 
 ---
 
 <br>
